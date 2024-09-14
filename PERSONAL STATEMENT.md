@@ -28,7 +28,7 @@
 
 
 
-### thinking , zettelkastens and shit
+### thinking , zettelkastens and shit 
 
 # extracurriculars
 - volunteering with explorers/scouts
