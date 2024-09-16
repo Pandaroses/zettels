@@ -18,14 +18,32 @@
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "c95d23d6d7604af2",
+        "type": "tabs",
+        "children": [
           {
-            "id": "3b999094be500357",
+            "id": "670d32ce34495728",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202409101345.md",
+                "file": "202409141939 - Actual Actual Personal Statement.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a59cf46a4314d1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "91fa05af2ecb5bf4",
@@ -98,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202409101345.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202409101345.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202409101345.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -160,35 +179,41 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3b999094be500357",
+  "active": "0a59cf46a4314d1d",
   "lastOpenFiles": [
-    "202409101631.md",
+    "202409141939 - Actual Actual Personal Statement.md",
+    "conflict-files-obsidian-git.md",
     "202409021017 - Actual Personal Statement.md",
+    "202409161517.md",
+    "202409101345.md",
+    "202409110951.md",
+    "Pasted image 20240916094216.png",
+    "202409101643.md",
+    "202409101631.md",
+    "202406121438.md",
+    "Pasted image 20240914201509.png",
+    "PERSONAL STATEMENT.md",
+    "202409141940.md",
+    "1910.12610v2.pdf",
     "202409141229.md",
     "202406121407.md",
     "202409131820.md",
     "l.md",
     "202409131739.md",
     "202409131501.md",
-    "202409101345.md",
-    "202409101643.md",
     "202409121117.md",
     "202409021011.md",
     "Pasted image 20240910164417.png",
-    "202409110951.md",
     "202409110923.md",
     "Pasted image 20240910164409.png",
     "Pasted image 20240910164353.png",
     "Pasted image 20240910164331.png",
     "Pasted image 20240910162903.png",
-    "202406121438.md",
     "202406131139.md",
     "202406131507.md",
     "202406172059.md",
     "202406172100.md",
     "202406241145.md",
-    "Untitled.md",
-    "202406131303.md",
-    "Welcome.md"
+    "Untitled.md"
   ]
 }
