@@ -1,0 +1,4 @@
+ithe effects of Computer Science are evident/visible in everyday life [YAP]
+
+
+Developing an n-tuple pendulum simulation made me curious about the interdisciplinary skills gained with computer science. Having covered harmonic motion in a physics lesson, I researched about Euler-Lagrange equations & the Runge Kutta methods for estimating solutions to initial value differential equations. After Deriving and implementing a double pendulum myself, using the forward Euler method [TUI?] I decided to do further research into n-tuple pendulums. I implemented Travis Taylors approach, which used matrix manipulation
