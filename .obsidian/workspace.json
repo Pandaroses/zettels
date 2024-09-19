@@ -11,8 +11,12 @@
             "id": "96fbed1bf448d8a9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           }
         ]
@@ -142,6 +150,7 @@
   },
   "active": "96fbed1bf448d8a9",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "202409171401 - Actual Actual Actual Personal Statement.md",
     "202409021017 - Actual Personal Statement.md",
     "202409141939 - Actual Actual Personal Statement.md",
@@ -149,7 +158,6 @@
     "202409171358.md",
     "Pasted image 20240917125838.png",
     "Pasted image 20240917125631.png",
-    "conflict-files-obsidian-git.md",
     "202409161517.md",
     "202409110951.md",
     "Pasted image 20240916094216.png",
